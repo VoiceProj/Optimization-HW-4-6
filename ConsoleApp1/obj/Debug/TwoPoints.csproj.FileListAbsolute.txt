@@ -4,3 +4,4 @@ C:\Users\mazha\Desktop\Optimization-HW-4-6-\ConsoleApp1\bin\Debug\ConsoleApp1.pd
 C:\Users\mazha\Desktop\Optimization-HW-4-6-\ConsoleApp1\obj\Debug\TwoPoints.csproj.CoreCompileInputs.cache
 C:\Users\mazha\Desktop\Optimization-HW-4-6-\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\mazha\Desktop\Optimization-HW-4-6-\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\ConsoleApp1\obj\Debug\TwoPoints.csprojResolveAssemblyReference.cache

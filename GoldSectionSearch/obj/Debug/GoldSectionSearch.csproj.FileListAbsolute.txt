@@ -1,0 +1,7 @@
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\GoldSectionSearch\bin\Debug\GoldSectionSearch.exe.config
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\GoldSectionSearch\bin\Debug\GoldSectionSearch.exe
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\GoldSectionSearch\bin\Debug\GoldSectionSearch.pdb
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\GoldSectionSearch\obj\Debug\GoldSectionSearch.csprojResolveAssemblyReference.cache
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\GoldSectionSearch\obj\Debug\GoldSectionSearch.csproj.CoreCompileInputs.cache
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\GoldSectionSearch\obj\Debug\GoldSectionSearch.exe
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\GoldSectionSearch\obj\Debug\GoldSectionSearch.pdb
