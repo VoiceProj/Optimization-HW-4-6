@@ -51,6 +51,7 @@ namespace ConsoleApplication1
                         a = x;
                         Console.WriteLine("Берем правый отрезок");
                     }
+                    Console.WriteLine("----------------------");
                 }
 
                 Console.WriteLine("Минимум функции F(x)={0} и находится в точке {1}", Y(x), x);
