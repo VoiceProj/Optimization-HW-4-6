@@ -1,0 +1,7 @@
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\mazha\Desktop\Optimization-HW-4-6-\Fibonacci\obj\Debug\Fibonacci.pdb
