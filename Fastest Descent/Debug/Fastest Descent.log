@@ -1,0 +1,3 @@
+﻿  Fastest Descent.cpp
+c:\users\mazha\desktop\repository\optimization-hw-4-6\fastest descent\fastest descent.cpp(136): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Fastest Descent.vcxproj -> C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\Debug\Fastest Descent.exe
