@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\mazha\desktop\repository\optimization-hw-4-6\consoleapplication1\consoleapplication1.cpp(145): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\mazha\desktop\repository\optimization-hw-4-6\consoleapplication1\consoleapplication1.cpp(156): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\Debug\Newton-Rafs.exe

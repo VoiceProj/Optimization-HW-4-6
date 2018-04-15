@@ -19,6 +19,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fastest Descent", "Fastest 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Сonjugate gradient", "Сonjugate gradient\Сonjugate gradient.vcxproj", "{59E657CF-62CA-4728-AECA-F1A03493B9B4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Newton", "Newton\Newton.vcxproj", "{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Newton-Rafs", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{F88F312D-532D-43EA-93EA-3A4A452E9253}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,26 @@ Global
 		{59E657CF-62CA-4728-AECA-F1A03493B9B4}.Release|x64.Build.0 = Release|x64
 		{59E657CF-62CA-4728-AECA-F1A03493B9B4}.Release|x86.ActiveCfg = Release|Win32
 		{59E657CF-62CA-4728-AECA-F1A03493B9B4}.Release|x86.Build.0 = Release|Win32
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Debug|x64.ActiveCfg = Debug|x64
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Debug|x64.Build.0 = Debug|x64
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Debug|x86.Build.0 = Debug|Win32
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Release|x64.ActiveCfg = Release|x64
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Release|x64.Build.0 = Release|x64
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Release|x86.ActiveCfg = Release|Win32
+		{6B08FD1C-3DA0-42DA-A52A-F10081119F8B}.Release|x86.Build.0 = Release|Win32
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Debug|x64.ActiveCfg = Debug|x64
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Debug|x64.Build.0 = Debug|x64
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Debug|x86.ActiveCfg = Debug|Win32
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Debug|x86.Build.0 = Debug|Win32
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Release|x64.ActiveCfg = Release|x64
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Release|x64.Build.0 = Release|x64
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Release|x86.ActiveCfg = Release|Win32
+		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
