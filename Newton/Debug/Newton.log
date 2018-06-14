@@ -1,4 +1,4 @@
 ﻿  Newton.cpp
 c:\users\mazha\desktop\repository\optimization-hw-4-6\newton\newton.cpp(118): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-c:\users\mazha\desktop\repository\optimization-hw-4-6\newton\newton.cpp(139): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\mazha\desktop\repository\optimization-hw-4-6\newton\newton.cpp(129): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
   Newton.vcxproj -> C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\Debug\Newton.exe

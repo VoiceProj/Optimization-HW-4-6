@@ -23,8 +23,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Newton", "Newton\Newton.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Newton-Rafs", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{F88F312D-532D-43EA-93EA-3A4A452E9253}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conj", "Conj\Conj.vcxproj", "{AA513B77-DB16-47FD-9315-4C59E5A24010}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,16 +141,6 @@ Global
 		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Release|x64.Build.0 = Release|x64
 		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Release|x86.ActiveCfg = Release|Win32
 		{F88F312D-532D-43EA-93EA-3A4A452E9253}.Release|x86.Build.0 = Release|Win32
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Debug|x64.ActiveCfg = Debug|x64
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Debug|x64.Build.0 = Debug|x64
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Debug|x86.ActiveCfg = Debug|Win32
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Debug|x86.Build.0 = Debug|Win32
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Release|Any CPU.ActiveCfg = Release|Win32
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Release|x64.ActiveCfg = Release|x64
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Release|x64.Build.0 = Release|x64
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Release|x86.ActiveCfg = Release|Win32
-		{AA513B77-DB16-47FD-9315-4C59E5A24010}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

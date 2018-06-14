@@ -1,7 +1,0 @@
-C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\ConjDirect\bin\Debug\ConjDirect.exe.config
-C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\ConjDirect\bin\Debug\ConjDirect.exe
-C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\ConjDirect\bin\Debug\ConjDirect.pdb
-C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\ConjDirect\obj\Debug\ConjDirect.csprojResolveAssemblyReference.cache
-C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\ConjDirect\obj\Debug\ConjDirect.csproj.CoreCompileInputs.cache
-C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\ConjDirect\obj\Debug\ConjDirect.exe
-C:\Users\mazha\Desktop\Repository\Optimization-HW-4-6\ConjDirect\obj\Debug\ConjDirect.pdb
